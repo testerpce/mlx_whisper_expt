@@ -1,5 +1,5 @@
 # Audio Transcription Experiment using Whisper
-This code is a small experiment to record audio and transcribe it using Whisper.
+This code is a small experiment to record audio and transcribe it using Whisper. Currently it doesn't use mlx. It just uses huggingface models to transcribe.
 
 ## Running the Code
 To run the code, use the following command:
