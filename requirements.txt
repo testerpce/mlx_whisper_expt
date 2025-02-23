@@ -1,0 +1,5 @@
+transformers
+torch
+sounddevice
+soundfile
+speech_recognition
